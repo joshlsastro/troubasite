@@ -1,3 +1,5 @@
+<link rel="icon" href="favicon.ico">
+
 # The Troubafuture of the Troubasite
 
 Hello. It's the Troubasite maintainer. Since I will be leaving Troubadours this year, the future of the Troubasite is somewhat uncertain. If no one becomes the maintainer next year, the Troubasite will go down on Saturday, May 25. It will be archived at [https://joshlsastro.github.io/troubasite](//joshlsastro.github.io/troubasite). ~~If you're interested in taking over, please read below.~~ GitHub forbids sharing logins, so I can't give this account to someone else. This means that there will be no Troubasite next year.
