@@ -1,3 +1,5 @@
+<link rel="icon" href="favicon.ico">
+
 # Declaration of Independence
 
 # WE THE BOARD OF TROUBS:
