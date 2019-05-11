@@ -1,3 +1,5 @@
+<link rel="icon" href="favicon.ico">
+
 # The Troubasite
 
 ## [Future of this Site](troubasite_future.md)
