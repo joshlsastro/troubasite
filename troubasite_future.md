@@ -15,7 +15,7 @@ You need the following to maintain the Troubasite:
 
 Markdown is plain text with some bells and whistles attached to make it suitable for writing Web pages. For instance, you can have *italic*, **bold**, or ~~struck through~~ text. It also supports [links](declaration_of_independence.md) and images:  
 ![Troubadours logo](favicon.ico)  
-In fact, what you're reading *right now* is in Markdown. You can find the Markdown for this page [here](https://raw.githubusercontent.com/troubasite/troubasite.github.io/master/troubasite_future.md). Here's some resources for learning Markdown:
+In fact, what you're reading *right now* is in Markdown. You can find the Markdown for this page [here](https://github.com/joshlsastro/troubasite/raw/master/troubasite_future.md). Here's some resources for learning Markdown:
 
 * [Small Cheatsheet with interactive tutorial](https://commonmark.org/help)
 * [Exhaustive Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
